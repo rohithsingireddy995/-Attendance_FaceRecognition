@@ -1,4 +1,3 @@
-# -Attendance_FaceRecognition
 # 🎯 Attendance Using Face Recognition System
 
 This project automates student attendance marking using **facial recognition technology**.  
